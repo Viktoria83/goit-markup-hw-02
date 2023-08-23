@@ -6,10 +6,10 @@
     text-decoration: none;
 }
 
-button {
+.button-hero {
     cursor: pointer;
     color: #FFFFFF;
-    font-family: inherit;
+    font-family: "Roboto", sans-serif;
     font-size: 16px;
     font-style: normal;
     font-weight: 500;
@@ -24,14 +24,18 @@ button:focus {
 }
 
 body {
-    font-family: 'Roboto', 'Raleway', 'Helvetica', 'Verdana', sans-serif;
-    color: #2E2F42;
+    font-family: 'Roboto', sans-serif;
+    color: #434455;
     background-color: #FFFFFF;
 }
 
+.adress {
+    font-style: normal;
+}
+
 .logotype {
-    color: #2E2F42;
-    font-family: Raleway;
+    color:#4d5ae5;
+    font-family: Raleway, sans-serif;
     font-size: 18px;
     font-weight: 700;
     line-height: 1.17;
@@ -39,8 +43,8 @@ body {
     text-transform: uppercase;
 }
 
-.logo-web {
-    color: #4D5AE5;
+.logo-studio {
+    color: #2E2F42;
 }
 
 .menu-link {
@@ -80,6 +84,7 @@ body {
     font-weight: 700;
     line-height: 1.07;
     letter-spacing: 0.02em;
+    text-align: center;
 }
 
 .benefits-list-title {
@@ -106,8 +111,12 @@ body {
     line-height: 1.11;
     letter-spacing: 0.02em;
     text-transform: capitalize;
+    text-align: center;
 }
 
+.team-title-item {
+    background-color: #FFFFFF;
+}
 .team-member-name {
     font-size: 20px;
     font-weight: 500;
@@ -129,6 +138,7 @@ body {
     line-height: 1.11;
     letter-spacing: 0.02em;
     text-transform: capitalize;
+    text-align: center;
 }
 
 .portfolio-name {
@@ -149,15 +159,8 @@ body {
     background-color: #2E2F42;
 }
 
-.footer-logotype {
+.logo-studio-footer {
     color: #F4F4FD;
-    font-family: Raleway;
-    font-size: 18px;
-    font-style: normal;
-    font-weight: 700;
-    line-height: 1.16;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
 }
 
 .footer-text {
