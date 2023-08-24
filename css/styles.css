@@ -29,7 +29,7 @@ body {
     background-color: #FFFFFF;
 }
 
-.adress {
+.address {
     font-style: normal;
 }
 
@@ -87,6 +87,10 @@ body {
     text-align: center;
 }
 
+.benefits-title {
+    color: #2E2F42;
+}
+
 .benefits-list-title {
     font-size: 20px;
     font-weight: 500;
@@ -106,6 +110,7 @@ body {
 }
 
 .team-title {
+    color: #2E2F42;
     font-size: 36px;
     font-weight: 700;
     line-height: 1.11;
@@ -133,6 +138,7 @@ body {
 }
 
 .portfolio-title {
+    color: #2E2F42;
     font-size: 36px;
     font-weight: 700;
     line-height: 1.11;
