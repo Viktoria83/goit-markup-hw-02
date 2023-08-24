@@ -92,6 +92,7 @@ body {
 }
 
 .benefits-list-title {
+    color: #2E2F42;
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2;
@@ -123,6 +124,7 @@ body {
     background-color: #FFFFFF;
 }
 .team-member-name {
+    color: #2E2F42;
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2;
@@ -148,6 +150,7 @@ body {
 }
 
 .portfolio-name {
+    color: #2E2F42;
     font-size: 20px;    
     font-weight: 500;
     line-height: 1.2;    
